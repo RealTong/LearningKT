@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a04a679-56e5-4d05-b0d6-0630c4e32da2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cn/antwu/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/antwu/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningKT/META-INF/LearningKT.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningKT/META-INF/LearningKT.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/antwu/HelloWorld.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -51,9 +54,37 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager">
-    <configuration name="HelloWorldKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.antwu.HelloWorldKt" />
+  <component name="RunManager" selected="Kotlin.KTForKt">
+    <configuration name="KTForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.antwu.KTForKt" />
+      <module name="LearningKT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTIfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.antwu.KTIfKt" />
+      <module name="LearningKT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTTemplateStrKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.antwu.KTTemplateStrKt" />
+      <module name="LearningKT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.antwu.KTWhenKt" />
+      <module name="LearningKT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.antwu.KTWhileKt" />
       <module name="LearningKT" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,7 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.HelloWorldKt" />
+        <item itemvalue="Kotlin.KTForKt" />
+        <item itemvalue="Kotlin.KTWhenKt" />
+        <item itemvalue="Kotlin.KTWhileKt" />
+        <item itemvalue="Kotlin.KTIfKt" />
+        <item itemvalue="Kotlin.KTTemplateStrKt" />
       </list>
     </recent_temporary>
   </component>
@@ -73,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648967509171</updated>
-      <workItem from="1648967509172" duration="1698000" />
+      <workItem from="1648967509172" duration="6609000" />
     </task>
     <servers />
   </component>

@@ -6,9 +6,10 @@
 
 ## 基础语法
 
-```kotlin
-fun sum(a: Int, b: Int): Int {
-    return a + b
-}
-```
+
+
+### 变量
+
+* 定义只读局部变量使用关键字 `val` 定义。只能为其赋值一次
+* 
 
